@@ -9,6 +9,7 @@ Step 5: Click Save and Run! It's ready! You'll see how the cursor moves down whe
 Step 6: Press the "numlock" key to activate or deactivate the script! Also in the Sleep: 18" line you can modify the sensitivity of the no recoil! If you lower it, it will be more noticeable! If you raise it, not as much! It will depend on the game you're running in! Or the weapon!
 Step 7: The Lua script is completely legal! Since it's included or executed through official Logitech software! It will only help you a little! It's not bannable, but be careful how you use it!
 
+FINAL STEP: In case this doesn't work for you, consider closing the Logitech G Hub and stopping the services in Task Manager! Open the Logitech G Hub software in Properties and check the box to always run as administrator! Sometimes it doesn't work the first time because Logitech keeps updating!
 
 °°°°°°°°°°°°°°°°°°°°°°°°°    Spanish    °°°°°°°°°°°°°°°°°°°°°°°°°°°
 
@@ -22,3 +23,4 @@ paso 5: Dale en guardar y ejecutar! estara listo! veras como baja el cursos al m
 paso 6: Con la tecla "numlock" se activara o desactivara el scrip! tambien en la linea Sleep: 18" puedes modificar la sensibilidad del no recoil! si le bajas sera mas notorio! si le subes no tanto! va a depender del juego en el que se este ejecutando! o del arma!
 paso 7: Es totalmente legal el script lua! ya que es incluido o ejecutado mediante un software oficial de logitech! solo te ayudara un poco! no es baneable pero ten cuidado con el uso de este!
 
+PASO final: en caso de que no te funcione.. considera cerrar logitech g hub y detener los servicios en el administrador de tareas! dirigete al software logitech g hub! propiedas y marca la casilla de ejecutar siempre como administrador! a veces suele no funcionar a la primera por que logitech se actualiza! 
